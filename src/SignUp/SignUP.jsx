@@ -10,7 +10,7 @@ const SignUP = () => {
     flex flex-col items-center justify-center text-black 
       "
         >
-          <h1 className="text-3xl font-bold mb-8">Sign UP</h1>
+          <h1 className="text-3xl font-bold mb-8">SignUP</h1>
   
           <input
             type="text"
